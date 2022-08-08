@@ -1,0 +1,27 @@
+.notfound-container{
+    margin-top: 70px;
+}
+.notfound-content-img{
+    /*margin-left: 558px;*/
+}
+.notfound-content-text-title{
+    margin-left: 514px;
+    margin-top: 20.69px;
+    margin-bottom: 0px;
+    text-align: left;
+    font: normal normal 600 25px/33px Segoe UI;
+    letter-spacing: 0px;
+    color: #064EBC;
+    opacity: 1;
+    width: 200px;
+    height: 33px;
+}
+.notfound-content-text-result{
+    text-align: left;
+    font: normal normal 600 18px/24px Segoe UI;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    margin-left: 340px;
+    margin-top: 10px;
+}

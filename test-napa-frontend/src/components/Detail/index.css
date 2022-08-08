@@ -1,0 +1,131 @@
+.page-detail-container{
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 1166.5px;
+}
+.page-detail-title{
+    margin-left: 507px;
+    margin-top: 50px;
+
+    text-align: left;
+    font: normal normal bold 35px/47px Segoe UI;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    width: 353px;
+    height: 47px;
+}
+.page-detail-info{
+    margin-top: 40px;
+    display: flex;
+}
+.page-detail-info::before{
+    content: '';
+    display: table;
+}
+.page-detail-info::after{
+    clear: both;
+    content: '';
+    display: table;
+}
+.page-detail-info img{
+    width: 50px;
+    height: 50px;
+    border-radius: 28px;
+}
+.page-detail-info-name-date{
+    margin-left: 15px;
+}
+.page-detail-info-name{
+    width: 64px;
+    height: 24px;
+}
+.page-detail-info-date{
+    width: 158px;
+    height: 20px;
+}
+.page-detail-content{
+    width: 1160px;
+    height: 80px;
+    margin-bottom: 309px;
+}
+
+.page-detail-content .page-detail-content-tex p {
+    text-align: left;
+    font: normal normal normal 15px/20px Segoe UI;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.page-detail-content .page-detail-content-image{
+    margin-left: 155px;
+    width: 800px;
+    height: 350px;
+}
+.page-detail-content .page-detail-content-image:after{
+    clear: both;
+    content: '';
+    display: table;
+}
+.page-detail-content .page-detail-content-image img{
+    width: 800px;
+    height: 350px;
+}
+.page-detail-react-cmt{
+    display: flex;
+    margin-left: 25px;
+    margin-top: 30px;
+}
+.page-detail-react-cmt::before{
+    content: '';
+    display: table;
+}
+.page-detail-react-cmt::after{
+    clear: both;
+    content: '';
+    display: table;
+}
+
+.page-detail-react-cmt .page-detail-react img{
+    margin-right: 5px;
+}
+.page-detail-react{
+    margin-right: 25px;
+}
+.page-detail-react-cmt .page-detail-cmt img{
+    margin-right: 5px;
+}
+.tag-hr-detail{
+    margin-bottom: 29.61px;
+}
+
+.page-detail-comment-data-date{
+    width: 158px;
+    height: 20px;
+}
+.page-detail-comment-data-date span{
+    text-align: left;
+    font: normal normal normal 15px/20px Segoe UI;
+    letter-spacing: 0px;
+    color: #5B7083;
+    opacity: 1;
+}
+.page-detail-comment-data-text{
+    width: 1143px;
+    margin-top: 5px;
+}
+.page-detail-comment-data-text p{
+    text-align: left;
+    font: normal normal normal 15px/20px Segoe UI;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1
+}
+.page-detail-comment-data ul {
+    list-style-type: none;
+    padding-inline-start: 0px
+}
+.tag-hr-detail-final{
+    margin-top: 29.61px;
+    margin-bottom: 30.39px;
+}

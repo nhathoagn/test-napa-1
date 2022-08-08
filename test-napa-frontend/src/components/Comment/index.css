@@ -1,0 +1,80 @@
+.form-comment-container{
+    margin-left: 183px;
+    width: 800px;
+    height: 150px;
+}
+.form-comment-container p{
+    text-align: left;
+    font: normal normal 600 18px/24px Segoe UI;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1
+}
+.form-comment-title-input{
+    /*background: #FFFFFF 0% 0% no-repeat padding-box;*/
+    /*border: 1px solid #D9D9D9;*/
+    /*border-radius: 10px;*/
+    /*opacity: 1;*/
+    /*width: 800px;*/
+    /*height: 150px;*/
+}
+form-comment-title-input-placeholder{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #D9D9D9;
+    border-radius: 10px;
+    opacity: 1;
+    width: 800px;
+    height: 150px;
+}
+.form-comment-title-input-placeholder{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #D9D9D9;
+    border-radius: 10px;
+    opacity: 1;
+    width: 800px;
+    height: 150px;
+}
+.form-comment-title-input-placeholder p{
+    width: 111px;
+    height: 17px;
+    text-align: left;
+    font: normal normal normal 13px/17px Segoe UI;
+    letter-spacing: 0px;
+    color: #D9D9D9;
+    opacity: 1;
+    margin: 20px 0px 0px 20px;
+    /*padding: 20px 0px 113px 20px;*/
+}
+.form-comment-btn{
+    margin-left: 704px;
+    margin-bottom: 20px;
+}
+.form-comment-btn-post{
+    background: #064EBC 0% 0% no-repeat padding-box !important;
+    box-shadow: 0px 3px 6px #00000029 !important;
+    border-radius: 10px !important;
+    opacity: 1 !important;
+    width: 76px !important;
+    height: 43px !important;
+    margin-top: 50px;
+    position: relative;
+    bottom: 111px;
+}
+.form-comment-title-input-placeholder:focus-visible{
+    border: none;
+   border: 1px solid #D9D9D9;
+    outline: unset;
+}
+.form-comment-btn-post span{
+    text-align: left;
+    font: normal normal bold 13px/17px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    width: 26px;
+    height: 17px;
+
+}
+.form-comment-btn-post:hover{
+    background: #064EBC 0% 0% no-repeat padding-box;
+}
